@@ -1,0 +1,24 @@
+# Keil5 编译输出目录
+**/Objects/
+**/Listings/
+
+# Keil5 编译产生的文件
+*.o
+*.d
+*.crf
+*.axf
+*.map
+*.lnp
+*.hex
+*.bin
+
+# 编译日志
+*.build_log.htm
+
+# Keil 用户个人配置
+*.uvoptx
+*.uvguix.*
+
+# 临时文件
+*.bak
+*.tmp
